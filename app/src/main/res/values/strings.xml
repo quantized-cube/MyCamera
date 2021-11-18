@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">俺のカメラ</string>
+    <string name="bt_eat">食事記録</string>
+    <string name="bt_body">身体記録</string>
+    <string name="bt_bang">バンドリ記録</string>
+    <string name="bt_music">音楽記録</string>
+</resources>
